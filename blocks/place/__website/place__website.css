@@ -1,0 +1,13 @@
+.place__website {
+  display: flex;
+  flex-direction: column;
+  justify-content: end;
+  align-items: start;
+}
+
+
+@media screen and (max-width: 767px) {
+  .place__website {
+    margin: 0 16px;
+  }
+}

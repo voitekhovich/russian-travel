@@ -1,0 +1,17 @@
+:root {
+  --color_background: #2A2C2F;
+  --color_white: #fff;
+  --color_gray: #aaa;
+}
+
+.body {
+  background-color: var(--color_background);
+  font-family: Inter, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color: var(--color_white);
+}
+
+/* * {
+  outline: 1px solid rgba(255, 0, 0, .2);
+} */

@@ -1,0 +1,14 @@
+.header__lang-link {
+  text-decoration: none;
+  font-size: 24px;
+  line-height: 117%;
+  font-weight: 400;
+  color: var(--color_white);
+}
+
+@media screen and (max-width: 767px) {
+  .header__lang-link {
+    font-size: 18px;
+    line-height: 111%;
+  }
+}
