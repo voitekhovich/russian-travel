@@ -4,11 +4,11 @@
   margin: 0 auto;
 }
 
-.link-hover {
+a {
   opacity: 1;
   transition: opacity .2s ease-in-out;
 }
 
-.link-hover:hover {
+a:hover {
   opacity: .8;
 }
