@@ -6,18 +6,23 @@
 
 @media screen and (max-width: 1279px) {
   .intro {
-    margin: 92px 48px 0;
+    margin-right: 48px;
+    margin-left: 48px;
   }
 }
 
 @media screen and (max-width: 1023px) {
   .intro {
-    margin: 88px 24px 0;
+    margin-top: 88px;
+    margin-right: 24px;
+    margin-left: 24px;
   }
 }
 
 @media screen and (max-width: 767px) {
   .intro {
-    margin: 64px 16px 0;
+    margin-top: 64px;
+    margin-right: 16px;
+    margin-left: 16px;
   }
 }
